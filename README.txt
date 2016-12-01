@@ -1,3 +1,5 @@
+WsusUpdate Power-Shell Script
+
 WsusUpdate 2.00
 
 News:
@@ -16,4 +18,4 @@ Changes:
 IMPORTANT NOTES:
 You must change the "using module" lines in WsusUpdate2.00.ps1 to the right path for the script to work.
 
-Please contact me immediately if you encounter any bugs!
+Please contact me immediately if you encounter any bug!
