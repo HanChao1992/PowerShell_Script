@@ -5,6 +5,7 @@
    I am the ultimate button pusher! 
 #>
 
+# Change the following path according to where you put the module files.
 using module "C:\Users\HAZHAO\Desktop\Wsus\WsusClass\Operation.psm1"
 using module "C:\Users\HAZHAO\Desktop\Wsus\WsusClass\Infodisplay.psm1"
 using module "C:\Users\HAZHAO\Desktop\Wsus\WsusClass\Initialization.psm1"
