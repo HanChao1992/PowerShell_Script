@@ -1,4 +1,4 @@
-# WsusUpdate Power-Shell Script
+# WsusUpdate PowerShell Script
 
 Script for performing various approval operations on updates
 based on, name of server, name of updates and, name of group 
