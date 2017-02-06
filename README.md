@@ -4,6 +4,9 @@ Script for performing various approval operations on updates
 based on, name of server, name of updates and, name of group 
 given by users.
 
+This script was developed for BlackBerry's Asset and Tool 
+administration team.
+
 
 ## WsusUpdate 2.00
 
